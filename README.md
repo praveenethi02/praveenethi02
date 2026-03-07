@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Computer Engineering**
 
-- 🌱 I’m currently learning **Embedded systems, software development, data structures.**
+- 🌱 I’m currently learning about **Embedded systems, software development, data structures.**
 
 - 📫 How to reach me **praveenethipola@gmail.com**
 
