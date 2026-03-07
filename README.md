@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praveen Ethipola</h1>
+<h1 align="center">Hi 👋  I'm Praveen Ethipola</h1>
 <h3 align="center">I am a Computer Engineering Undergraduate at the Faculty of Engineering, University of Ruhuna. I’m passionate about building efficient systems, diving deep into hardware-software integration, and solving complex algorithmic problems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenethi02" alt="praveenethi02" /></a> </p>
